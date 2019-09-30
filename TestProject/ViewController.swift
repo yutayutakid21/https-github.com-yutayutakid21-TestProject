@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         label.text = "あいうえお！"
         
+        //続き
         // Do any additional setup after loading the view.
     }
 
