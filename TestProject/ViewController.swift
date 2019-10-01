@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         label.text = "あいうえお！"
         
         //続き
+        label.text = "かきくけこ"
         // Do any additional setup after loading the view.
     }
 
